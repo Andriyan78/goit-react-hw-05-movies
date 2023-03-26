@@ -51,7 +51,7 @@ export const Footer = styled.footer`
   );
 `;
 
-export const P = styled.p`
+export const TextFooter = styled.p`
   color: black;
   text-align: center;
   color: black;

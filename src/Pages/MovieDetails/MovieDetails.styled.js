@@ -54,6 +54,7 @@ export const Genres = styled.ul`
 `;
 
 export const AdditionalDiv = styled.div`
+  /* margin: auto; */
   text-align: center;
 `;
 

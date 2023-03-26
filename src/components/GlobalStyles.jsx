@@ -12,6 +12,12 @@ export const GlobalStyles = createGlobalStyle`
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+main{
+  flex-grow:1;
+  background-color: beige;
+}
+
 img {
   display: block;
   max-width: 100%;
